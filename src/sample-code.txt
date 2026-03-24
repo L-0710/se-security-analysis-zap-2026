@@ -1,0 +1,5 @@
+public class SecurityScan {
+    public static void main(String[] args) {
+        System.out.println("Git协作版本库实践完成");
+    }
+}
